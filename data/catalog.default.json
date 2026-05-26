@@ -1,0 +1,368 @@
+{
+  "catalogVersion": 3,
+  "categories": [
+    {
+      "id": "jogos",
+      "label": "Jogos",
+      "parent": null,
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "ps4",
+      "label": "Playstation 4",
+      "parent": "jogos",
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "ps5",
+      "label": "Playstation 5",
+      "parent": "jogos",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "ps4-novos",
+      "label": "Novos",
+      "parent": "ps4",
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "ps4-usados",
+      "label": "Usados",
+      "parent": "ps4",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "ps5-novos",
+      "label": "Novos",
+      "parent": "ps5",
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "ps5-usados",
+      "label": "Usados",
+      "parent": "ps5",
+      "visible": true,
+      "order": 1
+    }
+  ],
+  "products": [
+    {
+      "id": "ps4-n-01",
+      "name": "Batman: The Enemy Within",
+      "price": 79.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/BatmanTEW.webp",
+      "shortDesc": "Batman: The Enemy Within — Novo para PlayStation 4.",
+      "description": "Batman: The Enemy Within em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-n-02",
+      "name": "Cyberpunk 2077",
+      "price": 149.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/Cyberpunk.webp",
+      "shortDesc": "Cyberpunk 2077 — Novo para PlayStation 4.",
+      "description": "Cyberpunk 2077 em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-n-03",
+      "name": "Dreams",
+      "price": 99.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/Dreams.webp",
+      "shortDesc": "Dreams — Novo para PlayStation 4.",
+      "description": "Dreams em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-n-04",
+      "name": "Ghost of Tsushima",
+      "price": 199.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/GhostOfTsushima.webp",
+      "shortDesc": "Ghost of Tsushima — Novo para PlayStation 4.",
+      "description": "Ghost of Tsushima em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-n-05",
+      "name": "inFamous: Second Son",
+      "price": 69.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/InfamousSecondSon-PSHits.webp",
+      "shortDesc": "inFamous: Second Son — Novo para PlayStation 4.",
+      "description": "inFamous: Second Son em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-n-06",
+      "name": "Nioh",
+      "price": 89.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/Nioh-PSHits.webp",
+      "shortDesc": "Nioh — Novo para PlayStation 4.",
+      "description": "Nioh em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-n-07",
+      "name": "Ratchet & Clank",
+      "price": 79.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/RatchetClankPH.webp",
+      "shortDesc": "Ratchet & Clank — Novo para PlayStation 4.",
+      "description": "Ratchet & Clank em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-n-08",
+      "name": "Rust Console Edition",
+      "price": 129.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/RUST.webp",
+      "shortDesc": "Rust Console Edition — Novo para PlayStation 4.",
+      "description": "Rust Console Edition em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-n-09",
+      "name": "The Last of Us Part II",
+      "price": 179.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/TLOU2.webp",
+      "shortDesc": "The Last of Us Part II — Novo para PlayStation 4.",
+      "description": "The Last of Us Part II em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-n-10",
+      "name": "Uncharted 4: A Thief's End",
+      "price": 89.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/Uncharted4-PH.webp",
+      "shortDesc": "Uncharted 4: A Thief's End — Novo para PlayStation 4.",
+      "description": "Uncharted 4: A Thief's End em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-n-11",
+      "name": "Uncharted: The Lost Legacy",
+      "price": 79.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/UnchartedLL-PH.webp",
+      "shortDesc": "Uncharted: The Lost Legacy — Novo para PlayStation 4.",
+      "description": "Uncharted: The Lost Legacy em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-n-12",
+      "name": "Uncharted: The Nathan Drake Collection",
+      "price": 99.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/UnchartedNDCPH.webp",
+      "shortDesc": "Uncharted: The Nathan Drake Collection — Novo para PlayStation 4.",
+      "description": "Uncharted: The Nathan Drake Collection em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-n-13",
+      "name": "Until Dawn",
+      "price": 69.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/UntilDawn-PH.webp",
+      "shortDesc": "Until Dawn — Novo para PlayStation 4.",
+      "description": "Until Dawn em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-n-14",
+      "name": "Watch Dogs",
+      "price": 59.9,
+      "categoryId": "ps4-novos",
+      "image": "assets/PS4/novos/WatchDogs-PSHits.webp",
+      "shortDesc": "Watch Dogs — Novo para PlayStation 4.",
+      "description": "Watch Dogs em excelente estado para PlayStation 4. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-u-01",
+      "name": "DOOM Eternal",
+      "price": 89.9,
+      "categoryId": "ps4-usados",
+      "image": "assets/PS4/usados/DOOMEternal.webp",
+      "shortDesc": "DOOM Eternal — Usado para PlayStation 4.",
+      "description": "DOOM Eternal em excelente estado para PlayStation 4. Produto usado, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-u-02",
+      "name": "MediEvil",
+      "price": 49.9,
+      "categoryId": "ps4-usados",
+      "image": "assets/PS4/usados/MediEvil.webp",
+      "shortDesc": "MediEvil — Usado para PlayStation 4.",
+      "description": "MediEvil em excelente estado para PlayStation 4. Produto usado, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps4-u-03",
+      "name": "The Last of Us Remasterizado",
+      "price": 69.9,
+      "categoryId": "ps4-usados",
+      "image": "assets/PS4/usados/TheLastOfUsRemasterizado.webp",
+      "shortDesc": "The Last of Us Remasterizado — Usado para PlayStation 4.",
+      "description": "The Last of Us Remasterizado em excelente estado para PlayStation 4. Produto usado, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps5-n-01",
+      "name": "Astro Bot",
+      "price": 299.9,
+      "categoryId": "ps5-novos",
+      "image": "assets/PS5/novos/Astrobot.webp",
+      "shortDesc": "Astro Bot — Novo para PlayStation 5.",
+      "description": "Astro Bot em excelente estado para PlayStation 5. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps5-n-02",
+      "name": "Back 4 Blood",
+      "price": 149.9,
+      "categoryId": "ps5-novos",
+      "image": "assets/PS5/novos/Back4Blood.webp",
+      "shortDesc": "Back 4 Blood — Novo para PlayStation 5.",
+      "description": "Back 4 Blood em excelente estado para PlayStation 5. Produto novo, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps5-u-01",
+      "name": "Assassin's Creed Valhalla",
+      "price": 99.9,
+      "categoryId": "ps5-usados",
+      "image": "assets/PS5/usados/ACValhalla.webp",
+      "shortDesc": "Assassin's Creed Valhalla — Usado para PlayStation 5.",
+      "description": "Assassin's Creed Valhalla em excelente estado para PlayStation 5. Produto usado, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps5-u-02",
+      "name": "Borderlands 4",
+      "price": 199.9,
+      "categoryId": "ps5-usados",
+      "image": "assets/PS5/usados/Borderlands4.webp",
+      "shortDesc": "Borderlands 4 — Usado para PlayStation 5.",
+      "description": "Borderlands 4 em excelente estado para PlayStation 5. Produto usado, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps5-u-03",
+      "name": "Death Stranding Director's Cut",
+      "price": 119.9,
+      "categoryId": "ps5-usados",
+      "image": "assets/PS5/usados/DeathStrandingDC.webp",
+      "shortDesc": "Death Stranding Director's Cut — Usado para PlayStation 5.",
+      "description": "Death Stranding Director's Cut em excelente estado para PlayStation 5. Produto usado, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps5-u-04",
+      "name": "F1 2021",
+      "price": 79.9,
+      "categoryId": "ps5-usados",
+      "image": "assets/PS5/usados/F12021.webp",
+      "shortDesc": "F1 2021 — Usado para PlayStation 5.",
+      "description": "F1 2021 em excelente estado para PlayStation 5. Produto usado, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps5-u-05",
+      "name": "EA Sports FIFA 22",
+      "price": 69.9,
+      "categoryId": "ps5-usados",
+      "image": "assets/PS5/usados/FIFA22.webp",
+      "shortDesc": "EA Sports FIFA 22 — Usado para PlayStation 5.",
+      "description": "EA Sports FIFA 22 em excelente estado para PlayStation 5. Produto usado, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps5-u-06",
+      "name": "Judgment",
+      "price": 129.9,
+      "categoryId": "ps5-usados",
+      "image": "assets/PS5/usados/Judgement.webp",
+      "shortDesc": "Judgment — Usado para PlayStation 5.",
+      "description": "Judgment em excelente estado para PlayStation 5. Produto usado, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    },
+    {
+      "id": "ps5-u-07",
+      "name": "Marvel's Spider-Man: Miles Morales",
+      "price": 149.9,
+      "categoryId": "ps5-usados",
+      "image": "assets/PS5/usados/SpiderManMiles.webp",
+      "shortDesc": "Marvel's Spider-Man: Miles Morales — Usado para PlayStation 5.",
+      "description": "Marvel's Spider-Man: Miles Morales em excelente estado para PlayStation 5. Produto usado, mídia física testada. Entre em contato para mais detalhes sobre disponibilidade e envio.",
+      "visible": true,
+      "buyType": "whatsapp",
+      "buyUrl": ""
+    }
+  ]
+}
