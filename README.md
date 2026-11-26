@@ -13,7 +13,7 @@ Acesse: https://monstergamestore.com.br/
 ### Telas
 
 <p align="center">
-  <img src="docs/images/screenshot.png" alt="Tela inicial - tema claro" width="80%">
+  <img src="docs/images/screenshot.png" alt="Tela inicial - tema claro." width="80%">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ Visit: https://monstergamestore.com.br/
 ### Screens
 
 <p align="center">
-  <img src="docs/images/screenshot.png" alt="Home screen - light theme" width="80%">
+  <img src="docs/images/screenshot.png" alt="Home screen - light theme." width="80%">
 </p>
 
 <p align="center">
