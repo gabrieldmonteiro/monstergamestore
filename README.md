@@ -6,7 +6,7 @@
 
 ## Português
 
-Loja virtual de jogos PS4 e PS5 com catálogo de produtos, páginas de detalhes e painel administrativo.
+Loja virtual com catálogo de produtos, páginas de detalhes e painel administrativo.
 
 Acesse: https://monstergamestore.com.br/
 
@@ -32,7 +32,7 @@ Acesse: https://monstergamestore.com.br/
 
 ## English
 
-Online store for PS4 and PS5 games with a product catalog, detail pages and an admin panel.
+Online store with a product catalog, detail pages and an admin panel.
 
 Visit: https://monstergamestore.com.br/
 
